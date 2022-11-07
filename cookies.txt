@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+zz-automation.com	TRUE	/	FALSE	1999999999	PHPSESSID	gs1468hbakggcma78g5o0vq646
+
